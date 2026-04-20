@@ -1,0 +1,874 @@
+[
+  {
+    "lat": 57.04863,
+    "lon": 24.06307,
+    "visits": [
+      {
+        "lat": 57.048631086945534,
+        "lon": 24.06307490542531,
+        "start": "2022-07-17T16:18:16.000Z",
+        "end": "2022-07-17T16:18:16.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9227156007"
+      }
+    ],
+    "id": "h01",
+    "osm": {
+      "display_name": "Vecm\u012blgr\u0101vis, Vecm\u012blgr\u0101vja apkaime, R\u012bga, LV-1015, Latvija",
+      "address": {
+        "suburb": "Vecm\u012blgr\u0101vis",
+        "city_district": "Vecm\u012blgr\u0101vja apkaime",
+        "city": "R\u012bga",
+        "ISO3166-2-lvl5": "LV-RIX",
+        "postcode": "LV-1015",
+        "country": "Latvija",
+        "country_code": "lv"
+      },
+      "name": "Vecm\u012blgr\u0101vis"
+    }
+  },
+  {
+    "lat": 57.39441,
+    "lon": 21.53513,
+    "visits": [
+      {
+        "lat": 57.394391130656004,
+        "lon": 21.535155940800905,
+        "start": "2022-07-18T09:03:12.000Z",
+        "end": "2022-07-18T09:03:12.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9227156007"
+      },
+      {
+        "lat": 57.39441929385066,
+        "lon": 21.53510288335383,
+        "start": "2022-07-18T18:13:25.000Z",
+        "end": "2022-07-18T18:13:25.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9246221764"
+      }
+    ],
+    "id": "h02",
+    "osm": {
+      "display_name": "Ostgals, Ventspils, Latvija",
+      "address": {
+        "suburb": "Ostgals",
+        "city": "Ventspils",
+        "ISO3166-2-lvl5": "LV-VEN",
+        "country": "Latvija",
+        "country_code": "lv"
+      },
+      "name": "Ostgals"
+    }
+  },
+  {
+    "lat": 54.3065,
+    "lon": 9.66821,
+    "visits": [
+      {
+        "lat": 54.306474197655916,
+        "lon": 9.668237557634711,
+        "start": "2022-07-21T13:15:27.000Z",
+        "end": "2022-07-21T13:15:27.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9246221764"
+      },
+      {
+        "lat": 54.30651753209531,
+        "lon": 9.668179051950574,
+        "start": "2022-07-23T07:40:22.000Z",
+        "end": "2022-07-23T07:40:22.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9260006249"
+      }
+    ],
+    "id": "h03",
+    "osm": {
+      "display_name": "Altstadt, Rendsburg-Mitte, Rendsburg, Kreis Rendsburg-Eckernf\u00f6rde, Schleswig-Holstein, Deutschland",
+      "address": {
+        "suburb": "Altstadt",
+        "city_district": "Rendsburg-Mitte",
+        "town": "Rendsburg",
+        "county": "Kreis Rendsburg-Eckernf\u00f6rde",
+        "state": "Schleswig-Holstein",
+        "ISO3166-2-lvl4": "DE-SH",
+        "country": "Deutschland",
+        "country_code": "de"
+      },
+      "name": "Altstadt"
+    }
+  },
+  {
+    "lat": 53.8714,
+    "lon": 8.70578,
+    "visits": [
+      {
+        "lat": 53.866487480700016,
+        "lon": 8.704132279381156,
+        "start": "2022-07-23T17:13:26.000Z",
+        "end": "2022-07-23T17:13:26.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9260006249"
+      },
+      {
+        "lat": 53.87118595652282,
+        "lon": 8.709057485684752,
+        "start": "2022-07-24T15:55:34.000Z",
+        "end": "2022-07-24T15:55:34.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9266100509"
+      },
+      {
+        "lat": 53.866594433784485,
+        "lon": 8.704376695677638,
+        "start": "2022-07-25T06:51:37.000Z",
+        "end": "2022-07-25T06:51:37.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9269619964"
+      },
+      {
+        "lat": 53.87420868035406,
+        "lon": 8.707316207489178,
+        "start": "2022-07-25T07:15:30.000Z",
+        "end": "2022-07-25T08:10:01.000Z",
+        "duration_min": 55,
+        "trip_id": "activity_9269619964"
+      },
+      {
+        "lat": 53.874419778585434,
+        "lon": 8.704013591632247,
+        "start": "2022-07-25T08:38:47.000Z",
+        "end": "2022-07-25T08:38:47.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9269619964"
+      },
+      {
+        "lat": 53.87548780068755,
+        "lon": 8.705800529569387,
+        "start": "2022-07-28T02:59:07.000Z",
+        "end": "2022-07-28T02:59:07.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9302311650"
+      }
+    ],
+    "id": "h04",
+    "osm": {
+      "display_name": "Cuxhaven, Landkreis Cuxhaven, Niedersachsen, Deutschland",
+      "address": {
+        "town": "Cuxhaven",
+        "county": "Landkreis Cuxhaven",
+        "state": "Niedersachsen",
+        "ISO3166-2-lvl4": "DE-NI",
+        "country": "Deutschland",
+        "country_code": "de"
+      },
+      "name": "Cuxhaven"
+    }
+  },
+  {
+    "lat": 53.90973,
+    "lon": 8.68805,
+    "visits": [
+      {
+        "lat": 53.909728126600385,
+        "lon": 8.688046485185623,
+        "start": "2022-07-24T09:51:52.000Z",
+        "end": "2022-07-24T09:51:52.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9264411232"
+      }
+    ],
+    "id": "h05",
+    "osm": {
+      "display_name": "Niedersachsen, Deutschland",
+      "address": {
+        "state": "Niedersachsen",
+        "ISO3166-2-lvl4": "DE-NI",
+        "country": "Deutschland",
+        "country_code": "de"
+      },
+      "name": "Niedersachsen"
+    }
+  },
+  {
+    "lat": 54.17786,
+    "lon": 7.89217,
+    "visits": [
+      {
+        "lat": 54.182526553049684,
+        "lon": 7.889146842062473,
+        "start": "2022-07-24T11:34:26.000Z",
+        "end": "2022-07-24T11:34:26.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9264411232"
+      },
+      {
+        "lat": 54.17319296859205,
+        "lon": 7.895199162885547,
+        "start": "2022-07-24T14:32:07.000Z",
+        "end": "2022-07-24T14:32:07.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9266100509"
+      }
+    ],
+    "id": "h06",
+    "osm": {
+      "display_name": "Unterland, Helgoland, Kreis Pinneberg, Schleswig-Holstein, 27498, Deutschland",
+      "address": {
+        "suburb": "Unterland",
+        "town": "Helgoland",
+        "county": "Kreis Pinneberg",
+        "state": "Schleswig-Holstein",
+        "ISO3166-2-lvl4": "DE-SH",
+        "postcode": "27498",
+        "country": "Deutschland",
+        "country_code": "de"
+      },
+      "name": "Unterland"
+    }
+  },
+  {
+    "lat": 49.92831,
+    "lon": 1.08287,
+    "visits": [
+      {
+        "lat": 49.92843199521303,
+        "lon": 1.0830521117895842,
+        "start": "2022-07-30T10:29:04.000Z",
+        "end": "2022-07-30T10:29:04.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9302311650"
+      },
+      {
+        "lat": 49.928192188963294,
+        "lon": 1.082696719095111,
+        "start": "2022-08-01T12:56:49.000Z",
+        "end": "2022-08-01T12:56:49.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9323398024"
+      }
+    ],
+    "id": "h07",
+    "osm": {
+      "display_name": "Dieppe, Seine-Maritime, Normandie, France m\u00e9tropolitaine, 76200, France",
+      "address": {
+        "city_district": "Dieppe",
+        "town": "Dieppe",
+        "municipality": "Dieppe",
+        "county": "Seine-Maritime",
+        "ISO3166-2-lvl6": "FR-76",
+        "state": "Normandie",
+        "ISO3166-2-lvl4": "FR-NOR",
+        "region": "France m\u00e9tropolitaine",
+        "postcode": "76200",
+        "country": "France",
+        "country_code": "fr"
+      },
+      "name": "Dieppe"
+    }
+  },
+  {
+    "lat": 49.45544,
+    "lon": -2.53111,
+    "visits": [
+      {
+        "lat": 49.45405340753496,
+        "lon": -2.5303164403885603,
+        "start": "2022-08-02T11:55:32.000Z",
+        "end": "2022-08-02T11:55:32.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9323398024"
+      },
+      {
+        "lat": 49.45683133788407,
+        "lon": -2.531908666715026,
+        "start": "2022-08-03T11:57:33.000Z",
+        "end": "2022-08-03T11:57:33.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9334402453"
+      }
+    ],
+    "id": "h08",
+    "osm": {
+      "display_name": "Saint-Sampson, St Sampson, Guernsey, GY2 4PB, Guernsey",
+      "address": {
+        "village": "Saint-Sampson",
+        "city": "St Sampson",
+        "state": "Guernsey",
+        "postcode": "GY2 4PB",
+        "country": "Guernsey",
+        "country_code": "gg"
+      },
+      "name": "Saint-Sampson"
+    }
+  },
+  {
+    "lat": 48.3792,
+    "lon": -4.49011,
+    "visits": [
+      {
+        "lat": 48.3792766649276,
+        "lon": -4.490229953080416,
+        "start": "2022-08-04T07:13:03.000Z",
+        "end": "2022-08-04T07:13:03.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9334402453"
+      },
+      {
+        "lat": 48.37913299910724,
+        "lon": -4.489984279498458,
+        "start": "2022-08-06T23:12:42.000Z",
+        "end": "2022-08-06T23:12:42.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9377400512"
+      }
+    ],
+    "id": "h09",
+    "osm": {
+      "display_name": "Pontaniou, Recouvrance, Brest, Finist\u00e8re, Bretagne, France m\u00e9tropolitaine, 29200, France",
+      "address": {
+        "quarter": "Pontaniou",
+        "suburb": "Recouvrance",
+        "city": "Brest",
+        "municipality": "Brest",
+        "county": "Finist\u00e8re",
+        "ISO3166-2-lvl6": "FR-29",
+        "state": "Bretagne",
+        "ISO3166-2-lvl4": "FR-BRE",
+        "region": "France m\u00e9tropolitaine",
+        "postcode": "29200",
+        "country": "France",
+        "country_code": "fr"
+      },
+      "name": "Pontaniou"
+    }
+  },
+  {
+    "lat": 38.69202,
+    "lon": -9.41655,
+    "visits": [
+      {
+        "lat": 38.69337650947273,
+        "lon": -9.414948849007487,
+        "start": "2022-08-10T17:08:41.000Z",
+        "end": "2022-08-10T17:08:41.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9377400512"
+      },
+      {
+        "lat": 38.69066311977804,
+        "lon": -9.418161045759916,
+        "start": "2022-08-11T19:19:24.000Z",
+        "end": "2022-08-11T19:19:24.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9394527788"
+      }
+    ],
+    "id": "h10",
+    "osm": {
+      "display_name": "Quinta do Castelo das Rosas, Cascais e Estoril, Cascais, Lisboa, 2750-406, Portugal",
+      "address": {
+        "farm": "Quinta do Castelo das Rosas",
+        "city_district": "Cascais e Estoril",
+        "town": "Cascais",
+        "county": "Lisboa",
+        "ISO3166-2-lvl6": "PT-11",
+        "postcode": "2750-406",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "name": "Quinta do Castelo das Rosas"
+    }
+  },
+  {
+    "lat": 36.13472,
+    "lon": -5.35522,
+    "visits": [
+      {
+        "lat": 36.134675005450845,
+        "lon": -5.35525543615222,
+        "start": "2022-08-13T10:30:49.000Z",
+        "end": "2022-08-13T10:30:49.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9394527788"
+      },
+      {
+        "lat": 36.13476418890059,
+        "lon": -5.355186285451055,
+        "start": "2022-08-16T06:28:54.000Z",
+        "end": "2022-08-16T06:28:54.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9415388041"
+      }
+    ],
+    "id": "h11",
+    "osm": {
+      "display_name": "Moorish Castle Estate (Qasbah), Gibraltar, GX11 1AA, Gibraltar",
+      "address": {
+        "neighbourhood": "Moorish Castle Estate (Qasbah)",
+        "city": "Gibraltar",
+        "postcode": "GX11 1AA",
+        "country": "Gibraltar",
+        "country_code": "gi"
+      },
+      "name": "Moorish Castle Estate (Qasbah)"
+    }
+  },
+  {
+    "lat": 36.54167,
+    "lon": -4.61629,
+    "visits": [
+      {
+        "lat": 36.541668036952615,
+        "lon": -4.616277599707246,
+        "start": "2022-08-16T13:53:36.000Z",
+        "end": "2022-08-16T13:53:36.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9415388041"
+      },
+      {
+        "lat": 36.541669545695186,
+        "lon": -4.616302493959665,
+        "start": "2022-08-17T16:48:58.000Z",
+        "end": "2022-08-17T16:48:58.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9426994757"
+      }
+    ],
+    "id": "h12",
+    "osm": {
+      "display_name": "Los Boliches, Fuengirola, Costa del Sol Occidental, M\u00e1laga, Andaluc\u00eda, 29640, Espa\u00f1a",
+      "address": {
+        "suburb": "Los Boliches",
+        "city": "Fuengirola",
+        "county": "Costa del Sol Occidental",
+        "province": "M\u00e1laga",
+        "ISO3166-2-lvl6": "ES-MA",
+        "state": "Andaluc\u00eda",
+        "ISO3166-2-lvl4": "ES-AN",
+        "postcode": "29640",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Los Boliches"
+    }
+  },
+  {
+    "lat": 36.69569,
+    "lon": -2.79361,
+    "visits": [
+      {
+        "lat": 36.69589748606086,
+        "lon": -2.793729566037655,
+        "start": "2022-08-18T08:05:25.000Z",
+        "end": "2022-08-18T08:05:25.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9426994757"
+      },
+      {
+        "lat": 36.69547822326422,
+        "lon": -2.7934837248176336,
+        "start": "2022-08-19T05:06:02.000Z",
+        "end": "2022-08-19T05:06:02.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9436469169"
+      }
+    ],
+    "id": "h13",
+    "osm": {
+      "display_name": "Almerimar, El Ejido, Almer\u00eda, Andaluc\u00eda, 04711, Espa\u00f1a",
+      "address": {
+        "village": "Almerimar",
+        "town": "El Ejido",
+        "province": "Almer\u00eda",
+        "ISO3166-2-lvl6": "ES-AL",
+        "state": "Andaluc\u00eda",
+        "ISO3166-2-lvl4": "ES-AN",
+        "postcode": "04711",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Almerimar"
+    }
+  },
+  {
+    "lat": 37.39419,
+    "lon": -1.59895,
+    "visits": [
+      {
+        "lat": 37.39420825615525,
+        "lon": -1.5989735908806324,
+        "start": "2022-08-19T17:27:20.000Z",
+        "end": "2022-08-19T17:27:20.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9436469169"
+      },
+      {
+        "lat": 37.39417975768447,
+        "lon": -1.5989331901073456,
+        "start": "2022-08-20T10:08:16.000Z",
+        "end": "2022-08-20T10:08:16.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9442972911"
+      }
+    ],
+    "id": "h14",
+    "osm": {
+      "display_name": "Matalentisco, \u00c1guilas, Alto Guadalent\u00edn, Regi\u00f3n de Murcia, 30880, Espa\u00f1a",
+      "address": {
+        "isolated_dwelling": "Matalentisco",
+        "town": "\u00c1guilas",
+        "county": "Alto Guadalent\u00edn",
+        "province": "Regi\u00f3n de Murcia",
+        "ISO3166-2-lvl6": "ES-MU",
+        "state": "Regi\u00f3n de Murcia",
+        "ISO3166-2-lvl4": "ES-MC",
+        "postcode": "30880",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Matalentisco"
+    }
+  },
+  {
+    "lat": 37.63595,
+    "lon": -0.69476,
+    "visits": [
+      {
+        "lat": 37.63594293035567,
+        "lon": -0.6943587027490139,
+        "start": "2022-08-20T17:15:30.000Z",
+        "end": "2022-08-20T17:15:30.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9442972911"
+      },
+      {
+        "lat": 37.63596246019006,
+        "lon": -0.6951629463583231,
+        "start": "2022-08-21T04:02:35.000Z",
+        "end": "2022-08-21T04:02:35.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9449206080"
+      }
+    ],
+    "id": "h15",
+    "osm": {
+      "display_name": "Espa\u00f1a",
+      "address": {
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Espa\u00f1a"
+    }
+  },
+  {
+    "lat": 38.84061,
+    "lon": 0.12079,
+    "visits": [
+      {
+        "lat": 38.84059994481504,
+        "lon": 0.12063084170222282,
+        "start": "2022-08-21T15:43:49.000Z",
+        "end": "2022-08-21T15:43:49.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9449206080"
+      },
+      {
+        "lat": 38.840624587610364,
+        "lon": 0.12094767764210701,
+        "start": "2022-08-22T08:55:33.000Z",
+        "end": "2022-08-22T08:55:33.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9455509338"
+      }
+    ],
+    "id": "h16",
+    "osm": {
+      "display_name": "Barri Port / Centre, D\u00e9nia, la Marina Alta, Alacant / Alicante, Comunitat Valenciana, 03700, Espa\u00f1a",
+      "address": {
+        "suburb": "Barri Port / Centre",
+        "town": "D\u00e9nia",
+        "region": "la Marina Alta",
+        "province": "Alacant / Alicante",
+        "ISO3166-2-lvl6": "ES-A",
+        "state": "Comunitat Valenciana",
+        "ISO3166-2-lvl4": "ES-VC",
+        "postcode": "03700",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Barri Port / Centre"
+    }
+  },
+  {
+    "lat": 39.46147,
+    "lon": -0.31391,
+    "visits": [
+      {
+        "lat": 39.46146293543279,
+        "lon": -0.31387452967464924,
+        "start": "2022-08-22T16:36:05.000Z",
+        "end": "2022-08-22T16:36:05.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9455509338"
+      },
+      {
+        "lat": 39.461483554914594,
+        "lon": -0.3139515593647957,
+        "start": "2022-08-23T04:25:42.000Z",
+        "end": "2022-08-23T04:25:42.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9462254160"
+      }
+    ],
+    "id": "h17",
+    "osm": {
+      "display_name": "Vera, Alboraia / Alboraya, l'Horta Nord, Val\u00e8ncia / Valencia, Comunitat Valenciana, 46011, Espa\u00f1a",
+      "address": {
+        "suburb": "Vera",
+        "town": "Alboraia / Alboraya",
+        "region": "l'Horta Nord",
+        "province": "Val\u00e8ncia / Valencia",
+        "ISO3166-2-lvl6": "ES-V",
+        "state": "Comunitat Valenciana",
+        "ISO3166-2-lvl4": "ES-VC",
+        "postcode": "46011",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Vera"
+    }
+  },
+  {
+    "lat": 40.58211,
+    "lon": 0.59591,
+    "visits": [
+      {
+        "lat": 40.58230049908161,
+        "lon": 0.5960076302289963,
+        "start": "2022-08-23T16:31:57.000Z",
+        "end": "2022-08-23T16:31:57.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9462254160"
+      },
+      {
+        "lat": 40.581917110830545,
+        "lon": 0.5958147626370192,
+        "start": "2022-08-24T04:59:48.000Z",
+        "end": "2022-08-24T04:59:48.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9467985548"
+      }
+    ],
+    "id": "h18",
+    "osm": {
+      "display_name": "Espa\u00f1a",
+      "address": {
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Espa\u00f1a"
+    }
+  },
+  {
+    "lat": 41.10763,
+    "lon": 1.25198,
+    "visits": [
+      {
+        "lat": 41.10750895924866,
+        "lon": 1.2510002218186855,
+        "start": "2022-08-24T13:02:31.000Z",
+        "end": "2022-08-24T13:02:31.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9467985548"
+      },
+      {
+        "lat": 41.10775471664965,
+        "lon": 1.252966783940792,
+        "start": "2022-08-25T09:35:53.000Z",
+        "end": "2022-08-25T09:35:53.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9475164014"
+      }
+    ],
+    "id": "h19",
+    "osm": {
+      "display_name": "Barris Mar\u00edtims, Tarragona, Tarragon\u00e8s, Tarragona, Catalunya, 43004, Espa\u00f1a",
+      "address": {
+        "neighbourhood": "Barris Mar\u00edtims",
+        "city": "Tarragona",
+        "county": "Tarragon\u00e8s",
+        "province": "Tarragona",
+        "ISO3166-2-lvl6": "ES-T",
+        "state": "Catalunya",
+        "ISO3166-2-lvl4": "ES-CT",
+        "postcode": "43004",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Barris Mar\u00edtims"
+    }
+  },
+  {
+    "lat": 41.25879,
+    "lon": 1.92501,
+    "visits": [
+      {
+        "lat": 41.25884598121047,
+        "lon": 1.9251592084765434,
+        "start": "2022-08-25T14:30:03.000Z",
+        "end": "2022-08-25T14:30:03.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9475164014"
+      },
+      {
+        "lat": 41.25872762873769,
+        "lon": 1.9248622376471758,
+        "start": "2022-08-26T09:03:33.000Z",
+        "end": "2022-08-26T09:03:33.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9481070347"
+      }
+    ],
+    "id": "h20",
+    "osm": {
+      "display_name": "Urbanitzaci\u00f3 Garraf II, Sitges, Garraf, Barcelona, Catalunya, 08860, Espa\u00f1a",
+      "address": {
+        "suburb": "Urbanitzaci\u00f3 Garraf II",
+        "town": "Sitges",
+        "county": "Garraf",
+        "province": "Barcelona",
+        "ISO3166-2-lvl6": "ES-B",
+        "state": "Catalunya",
+        "ISO3166-2-lvl4": "ES-CT",
+        "postcode": "08860",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Urbanitzaci\u00f3 Garraf II"
+    }
+  },
+  {
+    "lat": 41.48911,
+    "lon": 2.36748,
+    "visits": [
+      {
+        "lat": 41.489079343155026,
+        "lon": 2.36740761436522,
+        "start": "2022-08-26T12:56:17.000Z",
+        "end": "2022-08-26T12:56:17.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9481070347"
+      },
+      {
+        "lat": 41.489102728664875,
+        "lon": 2.367477687075734,
+        "start": "2022-09-01T08:38:41.000Z",
+        "end": "2022-09-01T08:38:41.000Z",
+        "duration_min": 0,
+        "kind": "start",
+        "trip_id": "activity_9520938756"
+      },
+      {
+        "lat": 41.48914631456137,
+        "lon": 2.367546334862709,
+        "start": "2022-09-01T14:16:20.000Z",
+        "end": "2022-09-01T14:16:20.000Z",
+        "duration_min": 0,
+        "kind": "end",
+        "trip_id": "activity_9520938756"
+      }
+    ],
+    "id": "h21",
+    "osm": {
+      "display_name": "Santa Anna-Ti\u00f3, Premi\u00e0 de Dalt, Maresme, Barcelona, Catalunya, 08338, Espa\u00f1a",
+      "address": {
+        "suburb": "Santa Anna-Ti\u00f3",
+        "village": "Premi\u00e0 de Dalt",
+        "county": "Maresme",
+        "province": "Barcelona",
+        "ISO3166-2-lvl6": "ES-B",
+        "state": "Catalunya",
+        "ISO3166-2-lvl4": "ES-CT",
+        "postcode": "08338",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "Santa Anna-Ti\u00f3"
+    }
+  },
+  {
+    "lat": 41.47624,
+    "lon": 2.3141,
+    "visits": [
+      {
+        "lat": 41.47623681729624,
+        "lon": 2.3140971246054414,
+        "start": "2022-09-01T12:26:39.000Z",
+        "end": "2022-09-01T12:59:55.000Z",
+        "duration_min": 33,
+        "trip_id": "activity_9520938756"
+      }
+    ],
+    "id": "h22",
+    "osm": {
+      "display_name": "El Roser, Barri de Mar d'Alella, el Masnou, Maresme, Barcelona, Catalunya, 08320, Espa\u00f1a",
+      "address": {
+        "isolated_dwelling": "El Roser",
+        "neighbourhood": "Barri de Mar d'Alella",
+        "town": "el Masnou",
+        "county": "Maresme",
+        "province": "Barcelona",
+        "ISO3166-2-lvl6": "ES-B",
+        "state": "Catalunya",
+        "ISO3166-2-lvl4": "ES-CT",
+        "postcode": "08320",
+        "country": "Espa\u00f1a",
+        "country_code": "es"
+      },
+      "name": "El Roser"
+    }
+  }
+]
